@@ -1,4 +1,4 @@
-const {input, output, get} = require('../ful/src/decorator');
+const {input, output, get} = require('myrest/src/decorator');
 const {c, t} = require('chkr');
 
 class ExampleAPI {
